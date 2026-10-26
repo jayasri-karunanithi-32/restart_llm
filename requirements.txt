@@ -6,3 +6,8 @@ uvicorn
 
 google-genai
 groq
+
+python-multipart
+
+pymupdf
+
